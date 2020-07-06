@@ -3,9 +3,9 @@
 	box-sizing: border-box;
 	margin: 0;
 	padding:0;
-	background:url("C:\\Users\\SONY\\Downloads\\albert.jpg") no-repeat fixed bottom left ,
-	url("C:\\Users\\SONY\\Downloads\\220px-Isaacnewton.png") no-repeat fixed bottom center,
-	url("C:\\Users\\SONY\\Downloads\\hawking_360x450new.jpg") no-repeat fixed bottom right,#F5F5F5;
+	background:url("albert.jpg") no-repeat fixed bottom left ,
+	url("220px-Isaacnewton.png") no-repeat fixed bottom center,
+	url("hawking_360x450new.jpg") no-repeat fixed bottom right,#F5F5F5;
 	background-size: 283px,225px,270px;
 }
 
