@@ -1,2 +1,0 @@
-# MYFIRSTWEBSITE
-Famous Scientists
