@@ -1,6 +1,12 @@
 *
 {
 	box-sizing: border-box;
+	margin: 0;
+	padding:0;
+	background:url("C:\\Users\\SONY\\Downloads\\albert.jpg") no-repeat fixed bottom left ,
+	url("C:\\Users\\SONY\\Downloads\\220px-Isaacnewton.png") no-repeat fixed bottom center,
+	url("C:\\Users\\SONY\\Downloads\\hawking_360x450new.jpg") no-repeat fixed bottom right,#F5F5F5;
+	background-size: 283px,225px,270px;
 }
 
 h1
@@ -8,7 +14,7 @@ h1
 	color: blue;
 	font-size: 40px;
 	text-align: center;
-
+	margin-bottom: 25px;
 }
 section
 {
@@ -31,6 +37,7 @@ p
 {
 	clear: right;
 	padding:10px;
+
 }
 #Einstein {
     background-color: brown;
@@ -48,6 +55,7 @@ p
       float: left;
       padding: 15px;
       border: 1px solid green;
+      margin-bottom: 7px;
     }
     .col-lg-1 {
       width: 8.33%;
